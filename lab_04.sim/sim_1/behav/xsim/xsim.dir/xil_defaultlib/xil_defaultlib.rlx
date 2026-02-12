@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Users/Public/Documents/Notes/obsidian-git/Misc/College/Sophomore Year/Spring Semester/ECE230/ECE Labs/ece230-lab-04/lab_04.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Users/jonah/Downloads/lab04_files/class/maxterm.v,1770926049,verilog,,C:/Users/jonah/Downloads/lab04_files/class/minterm.v,,maxterm,,,../../../../../../../../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/jonah/Downloads/lab04_files/class/minterm.v,1770926049,verilog,,C:/Users/jonah/Downloads/lab04_files/class/naive.v,,minterm,,,../../../../../../../../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/jonah/Downloads/lab04_files/class/naive.v,1770927181,verilog,,C:/Users/jonah/Downloads/lab04_files/class/top.v,,naive,,,../../../../../../../../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/jonah/Downloads/lab04_files/class/test.v,1770923736,verilog,,,,test,,,../../../../../../../../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/jonah/Downloads/lab04_files/class/top.v,1770923736,verilog,,C:/Users/jonah/Downloads/lab04_files/class/test.v,,top,,,../../../../../../../../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,

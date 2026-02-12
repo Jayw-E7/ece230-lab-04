@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../../../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef" \
+"../../../../../../../../../../../../../../../jonah/Downloads/lab04_files/class/maxterm.v" \
+"../../../../../../../../../../../../../../../jonah/Downloads/lab04_files/class/minterm.v" \
+"../../../../../../../../../../../../../../../jonah/Downloads/lab04_files/class/naive.v" \
+"../../../../../../../../../../../../../../../jonah/Downloads/lab04_files/class/top.v" \
+"../../../../../../../../../../../../../../../jonah/Downloads/lab04_files/class/test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
